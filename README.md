@@ -59,16 +59,13 @@ GOOGLE_API_KEY=your_google_generative_ai_key
 streamlit run app.py
 ```
 
----
 
 🔐 API Key Requirement
 ----------------------
 You must have a **Gemini API Key** to use the application.  
 Sign up and generate a key from: [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
----
 
----
 🤝 Contributing
 ---------------
 Feel free to contribute!  
@@ -80,11 +77,9 @@ Whether it's fixing bugs, improving logic, optimizing prompts, or enhancing UI�
 4. Push to the branch (`git push origin feature-xyz`)
 5. Open a Pull Request
 
----
 
----
 🙋 Author
 ---------
 👨‍💻 Prince Chauhan  
 🔗 GitHub: https://github.com/PrinceChauhanhub
----
+
