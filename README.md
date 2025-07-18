@@ -1,6 +1,6 @@
 # AskMyPDF 📚
 
-Web-App Link -> https://mathsolverusinggemma.streamlit.app/
+Web-App Link -> https://askmypdf07.streamlit.app/
 
 AskMyPDF is a powerful Streamlit web application that allows you to upload and interactively chat with multiple PDF documents using Google Gemini models via LangChain. It extracts and semantically understands the content of your PDFs and answers your questions contextually.
 
